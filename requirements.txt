@@ -1,6 +1,3 @@
 numpy
 jupyter
 matplotlib
-
-
-la entrada i j es 1/(i+j-1)
